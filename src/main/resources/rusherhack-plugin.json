@@ -1,0 +1,13 @@
+{
+  "Plugin-Class": "me.doogie.f3spoof.F3Plugin",
+  "Name": "F3Spoof",
+  "Version": "${plugin_version}",
+  "Description": "Spoofs your F3 menu coordinates",
+  "Authors": [
+    "Doogie13"
+  ],
+  "Minecraft-Versions": [
+    "1.20.4",
+    "1.21"
+  ]
+}
